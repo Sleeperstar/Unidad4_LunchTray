@@ -1,0 +1,53 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Bandeja de Almuerzo</string>
+    <string name="back_button">Atrás</string>
+    <string name="cancel">Cancelar</string>
+    <string name="choose_accompaniment">Elegir Acompañamiento</string>
+    <string name="choose_entree">Elegir Plato Principal</string>
+    <string name="choose_side_dish">Elegir Guarnición</string>
+    <string name="next">Siguiente</string>
+    <string name="order_checkout">Finalizar Pedido</string>
+    <string name="start_order">Iniciar Pedido</string>
+    <string name="order_summary">Resumen del Pedido</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Impuesto: %s</string>
+    <string name="total">Total: %s</string>
+    <string name="submit">Enviar</string>
+    <string name="cauliflower">Coliflor</string>
+    <string name="cauliflower_description">Coliflor entera, encurtida, asada y frita</string>
+    <string name="three_bean_chili">Chili de Tres Frijoles</string>
+    <string name="three_bean_chili_description">Frijoles negros, frijoles rojos, frijoles kidney, cocidos a fuego lento, cubiertos con cebolla</string>
+    <string name="mushroom_pasta">Pasta de Champiñones</string>
+    <string name="mushroom_pasta_description">Pasta penne, champiñones, albahaca, con tomates ciruela cocidos en ajo y aceite de oliva</string>
+    <string name="spicy_black_bean_skillet">Sartén de Frijoles Negros Picantes</string>
+    <string name="spicy_black_bean_skillet_description">Verduras de temporada, frijoles negros, mezcla de especias de la casa, servido con aguacate y cebollas encurtidas</string>
+    <string name="summer_salad">Ensalada de Verano</string>
+    <string name="summer_salad_description">Tomates reliquia, lechuga mantequilla, duraznos, aguacate, aderezo balsámico</string>
+    <string name="butternut_squash_soup">Sopa de Calabaza</string>
+    <string name="butternut_squash_soup_description">Calabaza asada, pimientos asados, aceite de chile</string>
+    <string name="spicy_potatoes">Papas Picantes</string>
+    <string name="spicy_potatoes_description">Papas marmoladas, asadas y fritas con mezcla de especias de la casa</string>
+    <string name="coconut_rice">Arroz con Coco</string>
+    <string name="coconut_rice_description">Arroz, leche de coco, lima y azúcar</string>
+    <string name="lunch_roll">Panecillo</string>
+    <string name="lunch_roll_description">Panecillo fresco horneado en casa</string>
+    <string name="mixed_berries">Bayas Mixtas</string>
+    <string name="mixed_berries_description">Fresas, arándanos, frambuesas y arándanos azules</string>
+    <string name="pickled_veggies">Verduras Encurtidas</string>
+    <string name="pickled_veggies_description">Pepinos y zanahorias encurtidos, hechos en casa</string>
+</resources>
